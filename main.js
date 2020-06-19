@@ -19,7 +19,7 @@ const movies = [];
 
 const updateUI = () => {
   if (movies.length === 0) {
-    entryTextSection.style.display = "black";
+    entryTextSection.style.display = "block";
   } else {
     entryTextSection.style.display = "none";
   }
