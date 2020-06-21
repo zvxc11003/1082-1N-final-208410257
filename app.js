@@ -79,6 +79,21 @@ class ClassDemoList {
       "製作影片播放器",
       "video player/index.html"
     ),
+    new ClassDemo(
+      6,
+      "Local Json",
+      "img/98.PNG",
+      "學習抓JSON檔",
+      "w14-local-json-demo/index.html"
+    ),
+    new ClassDemo(
+      7,
+      "Mini Shop",
+      "img/97.PNG",
+      "製作小型購物網",
+      "oop-01-starting-setup/index.html"
+    ),
+    
   ];
 
   constructor() {}

@@ -98,6 +98,7 @@ img {
   float: left;
   border-radius: 15px;
   margin: 2%;
+
   background-color: lightpink;
   border: 2px solid black;
 }
@@ -197,7 +198,7 @@ span {
 
 .modal .modal__title {
   margin: 0;
-  padding: 1rem;
+  padding: 1px;
   border-bottom: 1px solid #00329e;
   background: #00329e;
   color: rgb(222, 106, 106);
